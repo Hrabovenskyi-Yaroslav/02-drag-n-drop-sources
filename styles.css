@@ -63,7 +63,9 @@ body {
   background: linear-gradient(90deg, #84fab0 0%, #8fd3f4 100%);
 }
 .hold {
-  border: 5px solid red;
+  border: 2px solid rgb(252, 252, 252);
+  background-color: #ff85e4;
+  color: aqua;
 }
 .hide {
   display: none;
